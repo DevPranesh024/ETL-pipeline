@@ -108,7 +108,7 @@ weather_analysis_charts.png
 
 ---
 
-## 📁 Project Structure
+Project Structure
 
 ```
 Weather-ETL-Pipeline/
